@@ -35,6 +35,6 @@ def main():
     output_video = input_video.replace(".mp4","")
 
     save_video(output_video_frames, f'output_videos/{output_video}_output2.mp4',fps)    
-    #Test 입니다.
+   
 if __name__ == "__main__":
     main()
