@@ -1,0 +1,11 @@
+*.mp4
+*.mov
+/training
+training/
+input_videos/
+output_videos/
+*.pyc
+*.pyo
+*.zip  
+*.pth
+*.pt
