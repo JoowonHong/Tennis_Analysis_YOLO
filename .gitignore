@@ -2,8 +2,6 @@
 *.mov
 /training
 training/
-input_videos/
-output_videos/
 *.pyc
 *.pyo
 *.zip  
